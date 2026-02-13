@@ -39,13 +39,13 @@ python client.py
 ## 🎮 Commands
 Once connected, you can use the following commands:
 
-Command,Description,Example
 
-Command,Description,Example
-SET [key] [value],Stores a key-value pair.,SET user admin
-GET [key],Retrieves the value of a key.,GET user
-DEL [key],Removes a key.,DEL user
-EXIT,Disconnects from the server.,EXIT
+
+#### Command           Description
+SET [key] [value] : Stores a key-value pair.
+GET [key]         : Retrieves the value of a key.
+DEL [key]         : Removes a key.,DEL user
+EXIT              : Disconnects from the server.
 
 ## 🧪 Technical Details
 Language: Python 3
