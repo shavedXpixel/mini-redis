@@ -1,0 +1,9 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Database file (Optional: if you don't want to share your data)
+db.json
+
+# System files
+.DS_Store
