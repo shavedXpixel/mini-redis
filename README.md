@@ -66,3 +66,10 @@ Go to your terminal and push this update:
 git add README.md
 git commit -m "Docs: Added professional README with architecture details"
 git push
+
+## 📊 Benchmarks
+
+Tested on local Windows machine (inside OneDrive synced folder):
+* **Workload:** 10,000 sequential SET operations.
+* **Persistence:** JSON Disk Sync enabled (Strong Consistency).
+* **Result:** ~89 Requests/Second (limited by file I/O).
