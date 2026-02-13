@@ -66,6 +66,7 @@ Go to your terminal and push this update:
 git add README.md
 git commit -m "Docs: Added professional README with architecture details"
 git push
+```
 
 ## 📊 Benchmarks
 
